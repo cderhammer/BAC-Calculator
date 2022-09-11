@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Group30_InClass02</string>
+    <string name="labelTicketPriceText">Ticket Price:</string>
+    <string name="editTicketPriceHint">Enter Ticket Price</string>
+    <string name="labelDiscountPercentText">Discounted %:</string>
+    <string name="labelDiscountPriceText">Discounted Price:</string>
+    <string name="buttonDiscount1Text">5% Discount</string>
+    <string name="buttonDiscount2Text">10% Discount</string>
+    <string name="buttonDiscount3Text">15% Discount</string>
+    <string name="buttonDiscount4Text">20% Discount</string>
+    <string name="buttonDiscount5Text">50% Discount</string>
+    <string name="buttonClearText">Clear</string>
+</resources>
